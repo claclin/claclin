@@ -7,6 +7,6 @@ My name is Claudio, I´m from Spain and I am working as Professional Service.
 * Working with Dockers.
 * Learning Python, PHP.
 
-## Contact :letter:
+## Contact :e-mail:
 * You can contact me in my e-mail: claclin73@gmail.com
 
